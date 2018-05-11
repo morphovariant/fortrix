@@ -18,11 +18,13 @@ Fortrix achieves this with a multi-dimensional model, centralized calculations, 
 
 With the Timeline template, CPMs indicate which time dimension members (i.e. months) belong to specific tasks. This results in dynamic groups of time dimension members which control the display of time columns on subsequent templates, such as Enrollment which display FSA-FPI (First Site Active to First Patient In) and FPI-LPI (First Patient In to Last Patient In). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa-ZEzgFb5Y?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t9sTRKfnA9s?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Enrollment Forecasting
 
-The Enrollment template helps CPMs to forecast the activation of clinical sites (by country) and the enrollment of clinical subjects (by country and cohort (or, a group of subjects on the same treatment plan)). The blue rows are informational to help CPMs estimate more accurately. In this case, Cumulative Sites multiplied by the Enrollment Rate results in Monthly Subjects which are accumulated in the Cumulative Subjects row. CPMs can tweak these numbers until they look right and then populate them into the Subject row. Almost every calculation to follow will be based on Sites and or Subjects.
+The Enrollment template helps CPMs to forecast the activation of clinical sites (by country) and the enrollment of clinical subjects (by country and cohort (a cohort is a group of subjects on the same treatment plan). The blue rows are informational to help CPMs estimate more accurately. In this case, Cumulative Sites multiplied by the Enrollment Rate results in Subjects (by ER) which are accumulated in the Cumulative Subjects row. CPMs can tweak these numbers until they look right and then populate them into the Subject row. Almost every calculation to follow will be based on Sites and/or Subjects.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TwXIV_G1G6E?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Treatment Planning
 
