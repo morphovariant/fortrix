@@ -4,7 +4,7 @@
 
 Like most project managers, Clinical Project Managers (CPMs) keep project teams on target, manage timelines, monitor progress, communicate status, and track spending. At the same time, clinical trials present unique challenges and needs. CPMs must operate at the intersection of grievous illness; regulated, collaborative activity with global networks of field staff and partners; large, highly-scrutinized budgets; and 5-10 year timelines. While different companies divvy responsibilities differently, the CPM team I support is specifically responsible for forecasting study participation (including sites and subjects), estimating drug need (provided monthly to the supply team), and compiling the budget (reconciled quarterly and shared with the finance team).
 
-While there are many tools on the market to help CPMs, none handle all three of these complex, highly interdependent artifacts. So we’ve been relying on Excel. Interestingly, the Excel ‘template’ we have been using (fairly successfully) was developed by an individual who took the idea with him to other companies where similar needs had no better solution available. Over time, the complexity of the template has rendered it difficult to manage, modify for new study designs, and train new staff. Additionally, separate, slightly different Excel files for each study precludes automated reporting across studies and requires manual integration of actuals for the purpose of reforecasting. As the company continues to experience success and growth, the need for a more stable, scalable solution becomes more pressing.
+While there are many tools on the market to help CPMs, none handle all three of these complex, highly interdependent artifacts. So we’ve been relying on Excel. (Interestingly, the Excel ‘template’ we have been using (fairly successfully) was developed by an individual who took the idea with him to other companies where similar needs had no better solution available.) Over time, the complexity of the Excel template has rendered it difficult to manage, modify for new study designs, and train new staff. Additionally, separate, slightly different Excel files for each study precludes automated reporting across studies and requires manual integration of actuals for the purpose of reforecasting. As the company continues to experience success and growth, the need for a more stable, scalable solution becomes more pressing.
 
 In addition to managing the critical links between trial participation, supply and cost, our goals included: 
 - The centralization of forecast data for cross-study reporting; 
@@ -14,7 +14,28 @@ In addition to managing the critical links between trial participation, supply a
 
 Fortrix achieves this with a multi-dimensional model, centralized calculations, and integrated reporting. Dimensions such as Cohort and Product enable us to forecast enrollment and supply with more detail and less effort; while the Program and Version dimensions support scenario modeling for new and existing studies, respectively. Calculations are available in both real-time (similar to Excel formulas which respond immediately to given inputs) and via procedure (which ensures consistency while maintaining performance). Integrated reporting means that Supply and Finance can now get their data in a form that serves their needs better and from one source (instead of the dozens of current Excel files). Additionally, Clinical status reports will no longer require manual curation.
 
+### Timeline Management
+
+With the Timeline template, CPMs indicate which time dimension members (i.e. months) belong to specific tasks. This results in dynamic groups of time dimension members which control the display of time columns on subsequent templates, such as Enrollment which display FSA-FPI (First Site Active to First Patient In) and FPI-LPI (First Patient In to Last Patient In). 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aa-ZEzgFb5Y?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Enrollment Forecasting
+
+The Enrollment template helps CPMs to forecast the activation of clinical sites (by country) and the enrollment of clinical subjects (by country and cohort (or, a group of subjects on the same treatment plan)). The blue rows are informational to help CPMs estimate more accurately. In this case, Cumulative Sites multiplied by the Enrollment Rate results in Monthly Subjects which are accumulated in the Cumulative Subjects row. CPMs can tweak these numbers until they look right and then populate them into the Subject row. Almost every calculation to follow will be based on Sites and or Subjects.
+
+### Treatment Planning
+
+On the Treatment planning template, CPMs input the variables which describe the treatment for each cohort. A separate procedure then combines these inputs with the Enrollment forecast and calculates: how many Cycles* to expect for the Subjects in different Cohorts; how many Vials are needed of each Drug to treat those Subjects; and how many Vials are needed to Seed the Sites activated in each country. These monthly estimates are displayed below the Treatment plan for CPM review.
+
+*Participants are treated on a schedule comprised of repeated Cycles; in a Cycle, Subjects undergo one or more treatments and one or more medical tests to monitor efficacy and tolerance. We calculate how many Cycles are likely to occur in each month of the study because there is typically a cost associated with each. In fact, these numbers, along with Sites and Subjects from the Enrollment Template, are fed into the subsequent Budget calculations.
+
+### Budgeting Central Labs
+
+This Central Lab Template is one of the Budget templates where CPMs will input estimates that are thought to cover the life of the contract; these amounts are then spread in various ways (e.g. along Cycle or Enrollment curves) to better estimate monthly expenses. The Lab portion also gives us the detail necessary to help CPMs to batch the samples that result from the Labs (e.g. biopsies). Sometimes Lab results are processed immediately, but typically we group them into batches. Another procedure will display the results of these calculations and CPMs will use them to evaluate the best batching schedules.
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/morphovariant/fortrix/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
