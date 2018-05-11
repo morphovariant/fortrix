@@ -14,7 +14,7 @@ In addition to managing the critical links between trial participation, supply a
 
 Fortrix achieves this with a multi-dimensional model, centralized calculations, and integrated reporting. Dimensions such as Cohort and Product enable us to forecast enrollment and supply with more detail and less effort; while the Program and Version dimensions support scenario modeling for new and existing studies, respectively. Calculations are available in both real-time (similar to Excel formulas which respond immediately to given inputs) and via procedure (which ensures consistency while maintaining performance). Integrated reporting means that Supply and Finance can now get their data in a form that serves their needs better and from one source (instead of the dozens of current Excel files). Additionally, Clinical status reports will no longer require manual curation.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=aa-ZEzgFb5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed?v=aa-ZEzgFb5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 You can use the [editor on GitHub](https://github.com/morphovariant/fortrix/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
