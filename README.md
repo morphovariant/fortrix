@@ -28,9 +28,11 @@ The Enrollment template helps CPMs to forecast the activation of clinical sites 
 
 ### Treatment Planning
 
-On the Treatment planning template, CPMs input the variables which describe the treatment for each cohort. A separate procedure then combines these inputs with the Enrollment forecast and calculates: how many Cycles* to expect for the Subjects in different Cohorts; how many Vials are needed of each Drug to treat those Subjects; and how many Vials are needed to Seed the Sites activated in each country. These monthly estimates are displayed below the Treatment plan for CPM review.
+On the Treatment Planning template, CPMs input the variables which describe the treatment for each cohort. A separate procedure then combines these inputs with the Enrollment forecast and calculates: how many Cycles to expect for the Subjects in different Cohorts; how many Vials are needed of each Drug to treat those Subjects; and how many Vials are needed to Seed the Sites activated in each country. These monthly estimates are displayed below the Treatment plan for review.
 
-*Participants are treated on a schedule comprised of repeated Cycles; in a Cycle, Subjects undergo one or more treatments and one or more medical tests to monitor efficacy and tolerance. We calculate how many Cycles are likely to occur in each month of the study because there is typically a cost associated with each. In fact, these numbers, along with Sites and Subjects from the Enrollment Template, are fed into the subsequent Budget calculations.
+A Cycle is essentially a visit; participants are treated on a schedule comprised of repeated Cycles; in a Cycle, Subjects undergo one or more treatments and one or more medical tests to monitor efficacy and tolerance. We calculate how many Cycles are likely to occur in each month of the study because there is typically a cost associated with each. Along with Sites and Subjects, Cycles are used in subsequent Budget calculations.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wvg7ROLak?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Budgeting Central Labs
 
