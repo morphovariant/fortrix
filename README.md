@@ -24,7 +24,7 @@ With the Timeline template, CPMs indicate which time dimension members (i.e. mon
 
 ### Enrollment Forecasting
 
-The Enrollment template helps CPMs to forecast the activation of clinical Sites (by country) and the enrollment of clinical Subjects (by Country and Cohort - a Cohort is a group of Subjects on the same Treatment plan). The blue rows are informational to help CPMs estimate more accurately. In this case, Cumulative Sites multiplied by the Enrollment Rate results in Subjects (by ER) which are accumulated in the Cumulative Subjects row. CPMs can tweak these numbers until they look right and then populate them into the Subject row. Almost every calculation to follow will be based on Sites and/or Subjects.
+The Enrollment template helps CPMs to forecast the activation of clinical Sites (by Country) and the enrollment of clinical Subjects (by Country and Cohort - a Cohort is a group of Subjects on the same Treatment plan). The blue rows are informational to help CPMs estimate more accurately. In this case, Cumulative Sites multiplied by the Enrollment Rate results in Subjects (by ER) which are accumulated in the Cumulative Subjects row. CPMs can tweak these numbers until they look right and then populate them into the Subject row. Almost every calculation to follow will be based on Sites and/or Subjects.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TwXIV_G1G6E?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -32,7 +32,7 @@ The Enrollment template helps CPMs to forecast the activation of clinical Sites 
 
 On the Treatment Planning template, CPMs input the variables which describe the Treatment for each Cohort. A separate procedure then combines these inputs with the Enrollment forecast and calculates: how many Cycles to expect for the Subjects in different Cohorts; how many Vials are needed of each Drug to treat those Subjects; and how many Vials are needed to Seed the Sites activated in each country. These monthly estimates are displayed below the Treatment plan for review.
 
-(A Cycle is essentially a visit; participants are treated on a schedule comprised of repeated Cycles; in a Cycle, Subjects undergo one or more Treatments and one or more medical Tests to monitor efficacy and tolerance. We calculate how many Cycles are likely to occur in each month of the study because there is typically a cost associated with each. Along with Sites and Subjects, Cycles are essential to subsequent Budget calculations.)
+(A Cycle is essentially a visit; participants are treated on a schedule comprised of repeated Cycles; in a Cycle, Subjects undergo one or more Treatments and one or more medical Tests to monitor efficacy and tolerance. Along with Sites and Subjects, Cycles are essential to subsequent Budget estimations.)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wvg7ROLak?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
