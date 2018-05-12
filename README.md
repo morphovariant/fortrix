@@ -30,50 +30,12 @@ The Enrollment template helps CPMs to forecast the activation of clinical sites 
 
 On the Treatment Planning template, CPMs input the variables which describe the treatment for each cohort. A separate procedure then combines these inputs with the Enrollment forecast and calculates: how many Cycles to expect for the Subjects in different Cohorts; how many Vials are needed of each Drug to treat those Subjects; and how many Vials are needed to Seed the Sites activated in each country. These monthly estimates are displayed below the Treatment plan for review.
 
-A Cycle is essentially a visit; participants are treated on a schedule comprised of repeated Cycles; in a Cycle, Subjects undergo one or more treatments and one or more medical tests to monitor efficacy and tolerance. We calculate how many Cycles are likely to occur in each month of the study because there is typically a cost associated with each. Along with Sites and Subjects, Cycles are used in subsequent Budget calculations.
+(A Cycle is essentially a visit; participants are treated on a schedule comprised of repeated Cycles; in a Cycle, Subjects undergo one or more treatments and one or more medical tests to monitor efficacy and tolerance. We calculate how many Cycles are likely to occur in each month of the study because there is typically a cost associated with each. Along with Sites and Subjects, Cycles are used in subsequent Budget calculations.)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wvg7ROLak?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Budgeting Central Labs
 
-This Central Lab Template is one of the Budget templates where CPMs will input estimates that are thought to cover the life of the contract; these amounts are then spread in various ways (e.g. along Cycle or Enrollment curves) to better estimate monthly expenses. The Lab portion also gives us the detail necessary to help CPMs to batch the samples that result from the Labs (e.g. biopsies). Sometimes Lab results are processed immediately, but typically we group them into batches. Another procedure will display the results of these calculations and CPMs will use them to evaluate the best batching schedules.
+This Central Lab Template enables CPMs to input estimates covering the life of the contract; these amounts are then spread in various ways (e.g. along Cycle or Enrollment curves) to better estimate monthly expenses. The Lab portion also gives us more consistency and transparency with less effort in managing the samples that result from the Labs (e.g. biopsies). Sometimes Lab results are processed in real-time, but often we group them into batches and the Central Lab Summary Template helps CPMs to evaluate differnt batching schedules.
 
-
-
-
-
-You can use the [editor on GitHub](https://github.com/morphovariant/fortrix/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/morphovariant/fortrix/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NoMf88X3p5E?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
