@@ -34,6 +34,7 @@ On the Treatment Planning template, CPMs input the variables which describe the 
 - How many Cycles to expect for the Subjects in different Cohorts; 
 - How many Vials are needed of each Drug to treat those Subjects; 
 - How many Vials are needed to Seed the Sites activated in each country. 
+
 These monthly estimates are displayed below the Treatment plan for review.
 
 (A Cycle is essentially a visit; participants are treated on a schedule comprised of repeated Cycles; in a Cycle, Subjects undergo one or more Treatments and one or more medical Tests to monitor efficacy and tolerance. Along with Sites and Subjects, Cycles are essential to subsequent Budget estimations.)
