@@ -45,6 +45,6 @@ These monthly estimates are displayed below the Treatment plan for review.
 
 This Central Lab Detail Template enables CPMs to input estimates covering the life of the contract; these amounts are then spread in various ways (e.g. along Cycle or Enrollment curves) to better estimate monthly expenses. The Test portion also gives us more consistency and transparency in managing the samples that result from the Tests (e.g. biopsies). Sometimes Test results are processed in real-time, but often we group them into batches and the Central Lab Summary Template helps CPMs to explore various batching schedules.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NoMf88X3p5E?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NoMf88X3p5E?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+ 
 [Project Overview](/overview.md)
